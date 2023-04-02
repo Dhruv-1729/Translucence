@@ -21,22 +21,12 @@
 	--accent-hue: 156;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
-	--accent-opacity: 1;
+	--accent-opacity: 0;
 	--accent-text-color: #000; /*	-	*/
 
 	--sidebar-color: rgba(0,0,0,0.4);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
 
-
-
-	--card-color: rgba(0,0,0,0.4);
-	--card-color-hover: rgba(0,0,0,0.5);
-	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
-	
-	--button-height: 32px;
-	--button-padding: 0 16px;
-	--button-action-color: #000;
-	--button-radius: 16px; /*	-	*/
 
 	--interactive-normal: #aaa;
 	--interactive-hover: #ddd;
