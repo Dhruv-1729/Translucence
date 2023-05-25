@@ -18,21 +18,5 @@
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
 	
-	--accent-hue: 156;
-	--accent-saturation: 77.5%;
-	--accent-lightness: 47.1%;
-	--accent-opacity: 0;
-	--accent-text-color: #000; /*	-	*/
-
-	--sidebar-color: rgba(0,0,0,0);
-	--main-content-color: rgba(0,0,0,0); /*	-	*/
-
 	
-	--interactive-normal: #aaa;
-	--interactive-hover: #ddd;
-	--interactive-active: #fff;
-	--interactive-muted: #777; /*	-	*/
-
-	--background-modifier-hover: rgba(255,255,255,0.075);
-	--background-modifier-selected: rgba(255,255,255,0.125);
 }
