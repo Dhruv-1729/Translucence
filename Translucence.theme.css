@@ -24,8 +24,8 @@
 	--accent-opacity: 0;
 	--accent-text-color: #000; /*	-	*/
 
-	--sidebar-color: rgba(0,0,0,0.4);
-	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
+	--sidebar-color: rgba(0,0,0,0);
+	--main-content-color: rgba(0,0,0,0); /*	-	*/
 
 	
 	--interactive-normal: #aaa;
